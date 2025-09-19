@@ -51,12 +51,12 @@ Router# write memory
 
 ## 🔧 Skills Demonstrated
 
-Cisco IOS command-line configuration
+- Cisco IOS command-line configuration
 
-Subnetting & gateway setup
+- Subnetting & gateway setup
 
-Router interface activation (no shutdown)
+- Router interface activation (no shutdown)
 
-End-to-end connectivity testing (ping, tracert)
+- End-to-end connectivity testing (ping, tracert)
 
-Documentation & troubleshooting
+- Documentation & troubleshooting
