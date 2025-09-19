@@ -5,7 +5,7 @@ This lab simulates a small LAN with two PCs connected through a switch and route
 It demonstrates IP addressing, default gateways, and basic connectivity testing.  
 
 ## 🖼️ Network Topology
-![Network Diagram](NetworkDiagram.png)
+![Network Diagram](NetworkDiagram.PNG)
 
 ## 💻 IP Addressing Scheme
 | Device        | Interface     | IP Address     | Subnet Mask     | Default Gateway |
