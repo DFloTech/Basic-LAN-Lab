@@ -1,0 +1,9 @@
+PC2
+
+IPv4 Address: 192.168.2.10
+Subnet Mask: 255.255.255.0
+Default Gateway: 192.168.2.1
+DNS Server: 0.0.0.0
+
+IPv6
+Link Local Address: FE80::260:5CFF:FE6A:C946

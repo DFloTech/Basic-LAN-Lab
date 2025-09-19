@@ -1,0 +1,9 @@
+PC1
+
+IPv4 Address: 192.168.1.1
+Subnet Mask: 255.255.255.0
+Default Gateway: 192.168.1.1
+DNS Server: 0.0.0.0
+
+IPv6
+Link Local Address: FE80::210:11FF:FE05:B800
