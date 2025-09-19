@@ -19,10 +19,10 @@ It demonstrates IP addressing, default gateways, and basic connectivity testing.
 ```bash
 Router> enable
 Router# configure terminal
-Router(config)# interface FastEthernet0/0
+Router(config)# interface GigabitEthernet0/0
 Router(config-if)# ip address 192.168.1.1 255.255.255.0
 Router(config-if)# no shutdown
-Router(config)# interface FastEthernet0/1
+Router(config)# interface GigabitEthernet0/1
 Router(config-if)# ip address 192.168.2.1 255.255.255.0
 Router(config-if)# no shutdown
 Router(config)# end
