@@ -7,6 +7,10 @@ It demonstrates IP addressing, default gateways, and basic connectivity testing.
 ## 🖼️ Network Topology
 ![Network Diagram](NetworkDiagram.PNG)
 
+- **LAN 1 (192.168.1.0/24)** → PC1  
+- **LAN 2 (192.168.2.0/24)** → PC2  
+- **Router** → Connects both LANs  
+
 ## 💻 IP Addressing Scheme
 | Device        | Interface     | IP Address     | Subnet Mask     | Default Gateway |
 |---------------|--------------|----------------|-----------------|-----------------|
@@ -43,4 +47,16 @@ Router# write memory
 
 - Routers enable communication between different LANs.
 
-- Documenting configurations helps in troubleshooting.
+- Documenting configurations helps in troubleshooting and knowledge sharing.
+
+## 🔧 Skills Demonstrated
+
+Cisco IOS command-line configuration
+
+Subnetting & gateway setup
+
+Router interface activation (no shutdown)
+
+End-to-end connectivity testing (ping, tracert)
+
+Documentation & troubleshooting
